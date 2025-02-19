@@ -17,3 +17,10 @@ Q3: What is the difference between Merging and Rebasing?
 Answer:Merging combines the changes from one branch to another while 
 maintaining the history of both branches.Rebasing rewrites the history
 and moves the changes from one branch to another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to expanding my knowlege in databases and 
+python. As a computer engineering major, these skills will be important
+and allow me to qualify for many different jobs. I am also looking forward
+to making new friends.
