@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be added to basically any field. It is very 
+versatile seeing as any industry has data that needs to be analyzed in some
+way. An example is Health Care. Data Science can be used to predict 
+possible diseases or to analyze images from MRI's or X-Rays.
