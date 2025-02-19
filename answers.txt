@@ -4,9 +4,16 @@ allow people to work on a differrent part of the project on their own, while
 others work on the rest of the project. It also allows you to track changes 
 in the code overtime and saves the old versions of the code if you want to
 revert any changes.
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science can be added to basically any field. It is very 
 versatile seeing as any industry has data that needs to be analyzed in some
 way. An example is Health Care. Data Science can be used to predict 
 possible diseases or to analyze images from MRI's or X-Rays.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer:Merging combines the changes from one branch to another while 
+maintaining the history of both branches.Rebasing rewrites the history
+and moves the changes from one branch to another.
