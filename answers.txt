@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+Answer: Git allows for easy collaboration between multiple people. Branches
+allow people to work on a differrent part of the project on their own, while
+others work on the rest of the project. It also allows you to track changes 
+in the code overtime and saves the old versions of the code if you want to
+revert any changes.
